@@ -616,4 +616,4 @@ if uploaded_file is not None:
         st.markdown("</div>", unsafe_allow_html=True)
 
         # ── Download Buttons ─────────────────────────────
-        base_name = Path(uploaded_file.name
+        base_name = Path(uploaded_file.name)
